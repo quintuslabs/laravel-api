@@ -70,6 +70,11 @@ MAIL_ENCRYPTION=TLS
 ```
 ~/laravel-api$ php artisan passport:install
 ```
+8. create clint api
+```
+~/laravel-api$ php artisan passport:client --personal
+```
+
 
 
 ### Routes
