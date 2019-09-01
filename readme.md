@@ -69,6 +69,8 @@ MAIL_ENCRYPTION=TLS
 7. Create client
 ```
 ~/laravel-api$ php artisan passport:install
+ 
+  php artisan passport:client --personal
 ```
 
 
